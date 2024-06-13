@@ -1,6 +1,8 @@
-> ### `#660000` [DOCUMENTATION IN POLISH HERE](https://github.com/Kapelek/openai-image-generator-server/blob/main/OpenAI%20Image%20Generator%20-%20documentation%20PL.pdf)
+> ### 🟣 [DOCUMENTATION IN POLISH HERE](https://github.com/Kapelek/openai-image-generator-server/blob/main/OpenAI%20Image%20Generator%20-%20documentation%20PL.pdf)
 
-> ### [CLIENT APP NEEDED TO FULL FUNCTIONALITY](https://github.com/Kapelek/openai-image-generator-client)
+> ### 🟠 In order to achieve full-functionality of the app you need to set up client-side app [here](https://github.com/Kapelek/openai-image-generator-client) and put your OpenAI API Key in .env.
+
+
 
 > In .env file 
 
