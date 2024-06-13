@@ -1,6 +1,8 @@
-> ### [DOCUMENTATION IN POLISH HERE](https://github.com/Kapelek/openai-image-generator-server/blob/main/OpenAI%20Image%20Generator%20-%20documentation%20PL.pdf)
+> ### `#660000` [DOCUMENTATION IN POLISH HERE](https://github.com/Kapelek/openai-image-generator-server/blob/main/OpenAI%20Image%20Generator%20-%20documentation%20PL.pdf)
 
 > ### [CLIENT APP NEEDED TO FULL FUNCTIONALITY](https://github.com/Kapelek/openai-image-generator-client)
+
+> In .env file 
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
