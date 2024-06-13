@@ -1,4 +1,4 @@
-<h3>DOCUMENATION IN POLSIH IN PDF OR [HERE](https://github.com/Kapelek/openai-image-generator-server/blob/main/OpenAI%20Image%20Generator%20-%20documentation%20PL.pdf)</h3>
+[DOCUMENATION IN POLISH IN PDF](https://github.com/Kapelek/openai-image-generator-server/blob/main/OpenAI%20Image%20Generator%20-%20documentation%20PL.pdf)
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
