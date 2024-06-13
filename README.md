@@ -1,4 +1,4 @@
-<h2>OPEN PDF TO SEE DOCUMENTATION IN POLISH</h2>
+<h2 style="color:lightblue">OPEN PDF TO SEE DOCUMENTATION IN POLISH</h2>
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
