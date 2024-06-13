@@ -1,8 +1,9 @@
 > ### 🟣 [DOCUMENTATION IN POLISH HERE](https://github.com/Kapelek/openai-image-generator-server/blob/main/OpenAI%20Image%20Generator%20-%20documentation%20PL.pdf)
 
 > ### 🟠 In order to achieve full-functionality of the app you need to set up client-side app [here](https://github.com/Kapelek/openai-image-generator-client) and put your OpenAI API Key in .env.
-<br><br><br>
-
+<br>
+<hr>
+<br>
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
